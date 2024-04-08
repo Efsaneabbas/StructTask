@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\AB204\StringMeth\Task1\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\AB204\StringMeth\Task1\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AB204\StringMeth\Task1\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AB204\StringMeth\Task1\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
